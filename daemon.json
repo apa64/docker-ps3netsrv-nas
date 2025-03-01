@@ -1,0 +1,6 @@
+{
+    "storage-driver": "vfs",
+    "iptables": false,
+    "bridge": "none",
+    "data-root": "/volume1/@docker"
+}
